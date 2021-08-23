@@ -1,7 +1,8 @@
 # Bengaluru_House_Price_Prediction_Model
 
 # Project definition:
-The problem we are going to solve in this project is the house price prediction problem. Based on certain features of the house, such as the location, area in square feet, number of bedrooms, number of bathrooms,  we have to predict the estimated price of the house.
+The objective of the project is to create a machine learning model. We are doing a supervised learning and our aim is to do predictive analysis to predict housing price.
+The problem we are going to solve in this project is the house price prediction problem. Based on certain features of the house, such as the location, area in square feet, number of bedrooms, number of bathrooms, we predict the estimated price of the house.
 
 # Data collection :
 The dataset is obtained from Kaggle.
