@@ -12,7 +12,11 @@ Link: https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data
 # Model creation :
 - The first step is data science work where we take a data set from Kaggle called ‘Bengaluru_House_price.csv’.We will perform some extensive data cleaning work on it to ensure that it gives accurate results during prediction.
 
+![CSV](https://user-images.githubusercontent.com/75796904/130605463-b27c4e9e-b91e-4e40-b1eb-112f6801c0c4.png)
+
 - This jupyter notebook entitled ‘House_Price_Predictions.ipynb’ is where we perform all the data science-related work. Our dataset requires a lot of work in terms of data cleaning. In fact, 70% of the notebook is all about data cleaning where we drop empty rows and remove unnecessary columns that won’t help in prediction which is also called an outlier.
+
+![Cleaned_CSV](https://user-images.githubusercontent.com/75796904/130605613-801374e1-24ea-4755-96a5-f8005dfb7eeb.png)
 
 - The main packages used are numpy, pandas, matplotlib, seaborn, pickle-mixin and sklearn.
 
