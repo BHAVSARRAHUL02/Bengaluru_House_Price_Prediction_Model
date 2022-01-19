@@ -9,6 +9,8 @@ The dataset is obtained from Kaggle.
 
 Link: https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data
 
+Link For the You tube video : https://youtu.be/_DyF_ocdIf4
+
 # Model creation :
 - The first step is data science work where we take a data set from Kaggle called ‘Bengaluru_House_price.csv’.We will perform some extensive data cleaning work on it to ensure that it gives accurate results during prediction.
 
